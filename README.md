@@ -78,7 +78,7 @@ Interested in something? **[Email Jon](mailto:jon@jonbrown.org?subject=Vintage%2
 <table width="100%">
   <thead><tr><th width="30%">Item</th><th width="55%">Description</th><th width="15%" align="right">Asking price</th></tr></thead>
   <tbody>
-    <tr><td><a href="mailto:jon@jonbrown.org?subject=Iomega%20Zip%20100%20SCSI%20Drive%20inquiry">Iomega Zip 100 SCSI Drive</a></td><td>External SCSI Zip 100 drive with its power adapter and cables.</td><td align="right">$100</td></tr>
+    <tr><td><a href="mailto:jon@jonbrown.org?subject=Iomega%20Zip%20100%20SCSI%20Drive%20inquiry">Iomega Zip 100 SCSI Drive</a></td><td>External SCSI Zip 100 drive with its power adapter and cables.</td><td align="right">$65</td></tr>
     <tr><td><a href="mailto:jon@jonbrown.org?subject=Staples%203.5-inch%20Floppy%20Disks%20inquiry">Staples 3.5-inch Floppy Disks</a></td><td>PC-formatted disks, new and sealed in the original box.</td><td align="right">$10</td></tr>
     <tr><td><a href="mailto:jon@jonbrown.org?subject=TP-Link%208-Port%20Gigabit%20PoE%20Switch%20inquiry">TP-Link 8-Port Gigabit PoE Switch</a></td><td>Eight-port desktop Gigabit switch with PoE on all eight ports.</td><td align="right">$40</td></tr>
   </tbody>
