@@ -1,18 +1,18 @@
-<samp>
-██╗&nbsp;&nbsp;&nbsp;██╗██╗███╗&nbsp;&nbsp;&nbsp;██╗████████╗&nbsp;█████╗&nbsp;&nbsp;██████╗&nbsp;███████╗<br>
-██║&nbsp;&nbsp;&nbsp;██║██║████╗&nbsp;&nbsp;██║╚══██╔══╝██╔══██╗██╔════╝&nbsp;██╔════╝<br>
-██║&nbsp;&nbsp;&nbsp;██║██║██╔██╗&nbsp;██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;███████║██║&nbsp;&nbsp;███╗█████╗<br>
-╚██╗&nbsp;██╔╝██║██║╚██╗██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██╔══██║██║&nbsp;&nbsp;&nbsp;██║██╔══╝<br>
-&nbsp;╚████╔╝&nbsp;██║██║&nbsp;╚████║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;██║╚██████╔╝███████╗<br>
-&nbsp;&nbsp;╚═══╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;╚═══╝&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;╚═╝&nbsp;╚═════╝&nbsp;╚══════╝<br>
-<br>
-&nbsp;█████╗&nbsp;██████╗&nbsp;██████╗&nbsp;██╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████╗&nbsp;&nbsp;&nbsp;&nbsp;████████╗███████╗&nbsp;██████╗██╗&nbsp;&nbsp;██╗<br>
-██╔══██╗██╔══██╗██╔══██╗██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔════╝&nbsp;&nbsp;&nbsp;&nbsp;╚══██╔══╝██╔════╝██╔════╝██║&nbsp;&nbsp;██║<br>
-███████║██████╔╝██████╔╝██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;█████╗&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████║<br>
-██╔══██║██╔═══╝&nbsp;██╔═══╝&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔══╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██╔══╝&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔══██║<br>
-██║&nbsp;&nbsp;██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████╗███████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;███████╗╚██████╗██║&nbsp;&nbsp;██║<br>
-╚═╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚══════╝╚══════╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;╚══════╝&nbsp;╚═════╝╚═╝&nbsp;&nbsp;╚═╝
-</samp>
+```text
+██╗   ██╗██╗███╗   ██╗████████╗ █████╗  ██████╗ ███████╗
+██║   ██║██║████╗  ██║╚══██╔══╝██╔══██╗██╔════╝ ██╔════╝
+██║   ██║██║██╔██╗ ██║   ██║   ███████║██║  ███╗█████╗
+╚██╗ ██╔╝██║██║╚██╗██║   ██║   ██╔══██║██║   ██║██╔══╝
+ ╚████╔╝ ██║██║ ╚████║   ██║   ██║  ██║╚██████╔╝███████╗
+  ╚═══╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+
+ █████╗ ██████╗ ██████╗ ██╗     ███████╗    ████████╗███████╗ ██████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗██║     ██╔════╝    ╚══██╔══╝██╔════╝██╔════╝██║  ██║
+███████║██████╔╝██████╔╝██║     █████╗         ██║   █████╗  ██║     ███████║
+██╔══██║██╔═══╝ ██╔═══╝ ██║     ██╔══╝         ██║   ██╔══╝  ██║     ██╔══██║
+██║  ██║██║     ██║     ███████╗███████╗       ██║   ███████╗╚██████╗██║  ██║
+╚═╝  ╚═╝╚═╝     ╚═╝     ╚══════╝╚══════╝       ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝
+```
 
 **VINTAGE APPLE COMPUTERS, PERIPHERALS & ODDITIES LOOKING FOR NEW HOMES**
 
