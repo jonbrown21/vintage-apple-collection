@@ -1,22 +1,20 @@
-# Vintage Apple Tech
+<samp>
+██╗&nbsp;&nbsp;&nbsp;██╗██╗███╗&nbsp;&nbsp;&nbsp;██╗████████╗&nbsp;█████╗&nbsp;&nbsp;██████╗&nbsp;███████╗<br>
+██║&nbsp;&nbsp;&nbsp;██║██║████╗&nbsp;&nbsp;██║╚══██╔══╝██╔══██╗██╔════╝&nbsp;██╔════╝<br>
+██║&nbsp;&nbsp;&nbsp;██║██║██╔██╗&nbsp;██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;███████║██║&nbsp;&nbsp;███╗█████╗<br>
+╚██╗&nbsp;██╔╝██║██║╚██╗██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██╔══██║██║&nbsp;&nbsp;&nbsp;██║██╔══╝<br>
+&nbsp;╚████╔╝&nbsp;██║██║&nbsp;╚████║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;██║╚██████╔╝███████╗<br>
+&nbsp;&nbsp;╚═══╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;╚═══╝&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;╚═╝&nbsp;╚═════╝&nbsp;╚══════╝<br>
+<br>
+&nbsp;█████╗&nbsp;██████╗&nbsp;██████╗&nbsp;██╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████╗&nbsp;&nbsp;&nbsp;&nbsp;████████╗███████╗&nbsp;██████╗██╗&nbsp;&nbsp;██╗<br>
+██╔══██╗██╔══██╗██╔══██╗██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔════╝&nbsp;&nbsp;&nbsp;&nbsp;╚══██╔══╝██╔════╝██╔════╝██║&nbsp;&nbsp;██║<br>
+███████║██████╔╝██████╔╝██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;█████╗&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████║<br>
+██╔══██║██╔═══╝&nbsp;██╔═══╝&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔══╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;██╔══╝&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔══██║<br>
+██║&nbsp;&nbsp;██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;███████╗███████╗&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██║&nbsp;&nbsp;&nbsp;███████╗╚██████╗██║&nbsp;&nbsp;██║<br>
+╚═╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚══════╝╚══════╝&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;╚═╝&nbsp;&nbsp;&nbsp;╚══════╝&nbsp;╚═════╝╚═╝&nbsp;&nbsp;╚═╝
+</samp>
 
-<p align="center">
-  <samp>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/////&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;_______&nbsp;&nbsp;&nbsp;________________&nbsp;&nbsp;&nbsp;______&nbsp;________<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/////&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;&nbsp;/&nbsp;/&nbsp;&nbsp;_/&nbsp;|&nbsp;/&nbsp;/_&nbsp;&nbsp;__/&nbsp;&nbsp;&nbsp;|&nbsp;/&nbsp;____//&nbsp;____/<br>
-&nbsp;&nbsp;============&nbsp;&nbsp;&nbsp;|&nbsp;|&nbsp;/&nbsp;//&nbsp;//&nbsp;&nbsp;|/&nbsp;/&nbsp;/&nbsp;/&nbsp;/&nbsp;/|&nbsp;|/&nbsp;/&nbsp;__&nbsp;/&nbsp;__/&nbsp;&nbsp;<br>
-&nbsp;++++++++++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;|/&nbsp;//&nbsp;//&nbsp;/|&nbsp;&nbsp;/&nbsp;/&nbsp;/&nbsp;/&nbsp;___&nbsp;/&nbsp;/_/&nbsp;//&nbsp;/___&nbsp;<br>
-*********&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|___/___/_/&nbsp;|_/&nbsp;/_/&nbsp;/_/&nbsp;&nbsp;|_\____//_____/<br>
-############<br>
-&nbsp;%%%%%%%%%%%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;___&nbsp;&nbsp;&nbsp;&nbsp;____&nbsp;&nbsp;____&nbsp;&nbsp;__&nbsp;&nbsp;&nbsp;&nbsp;______&nbsp;&nbsp;&nbsp;___________&nbsp;________&nbsp;&nbsp;__<br>
-&nbsp;&nbsp;@@@@@@@@@&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;/&nbsp;__/&nbsp;/&nbsp;__/&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;/&nbsp;____/&nbsp;&nbsp;/_&nbsp;&nbsp;__/&nbsp;____//&nbsp;____/&nbsp;/&nbsp;/&nbsp;/<br>
-&nbsp;&nbsp;&nbsp;&nbsp;$$$$$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;/|&nbsp;|&nbsp;/&nbsp;/_/&nbsp;/&nbsp;/_/&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;/&nbsp;__/&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;/&nbsp;__/&nbsp;/&nbsp;/&nbsp;&nbsp;&nbsp;/&nbsp;/_/&nbsp;/&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/&nbsp;___&nbsp;|/&nbsp;____/&nbsp;____/&nbsp;/___/&nbsp;/___&nbsp;&nbsp;&nbsp;/&nbsp;/&nbsp;/&nbsp;/___/&nbsp;/___/&nbsp;__&nbsp;&nbsp;/&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/_/&nbsp;&nbsp;|_/_/&nbsp;&nbsp;&nbsp;/_/&nbsp;&nbsp;&nbsp;/_____/_____/&nbsp;&nbsp;&nbsp;/_/&nbsp;/_____/_____/_/&nbsp;/_/<br>
-  </samp>
-</p>
-
-<p align="center"><strong>VINTAGE APPLE COMPUTERS, PERIPHERALS &amp; ODDITIES LOOKING FOR NEW HOMES</strong></p>
+**VINTAGE APPLE COMPUTERS, PERIPHERALS & ODDITIES LOOKING FOR NEW HOMES**
 
 A small, personal collection of vintage Apple computers, peripherals, books, software, and useful oddities is looking for its next desks and display shelves.
 
