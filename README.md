@@ -39,8 +39,6 @@ Interested in something? **[Email Jon](mailto:jon@jonbrown.org?subject=Vintage%2
   <thead><tr><th width="30%">Item</th><th width="55%">Description</th><th width="15%" align="right">Asking price</th></tr></thead>
   <tbody>
     <tr><td><a href="mailto:jon@jonbrown.org?subject=PowerBook%20G3%20Pismo%20inquiry">PowerBook G3 “Pismo”</a></td><td>Has a logic-board ATA4/1/2 failure, but boots from CD and FireWire. No internal drive or installed OS. Includes a brand-new modern power cord and compatible AC adapter.</td><td align="right">$150</td></tr>
-    <tr><td><a href="mailto:jon@jonbrown.org?subject=MacBook%20non-unibody%20inquiry">MacBook (non-unibody)</a></td><td>Classic white polycarbonate MacBook with its Apple power adapter and cord.</td><td align="right">$200</td></tr>
-    <tr><td><a href="mailto:jon@jonbrown.org?subject=MacBook%20Battery%20inquiry">MacBook Battery</a></td><td>Used Apple rechargeable MacBook battery in its original box.</td><td align="right">$25</td></tr>
   </tbody>
 </table>
 
